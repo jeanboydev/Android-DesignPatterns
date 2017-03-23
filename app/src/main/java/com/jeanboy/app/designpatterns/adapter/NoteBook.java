@@ -21,5 +21,6 @@ public class NoteBook {
 
         ThreePlugInterface threePlugInterface=new TwoPlugAdapter(gbTwoPlug);
         NoteBook noteBook=new NoteBook(threePlugInterface);
+        noteBook.charge();
     }
 }
