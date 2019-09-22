@@ -1,10 +1,10 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.chain.CEO;
-import com.jeanboy.app.designpatterns.chain.Employee;
-import com.jeanboy.app.designpatterns.chain.Leader;
-import com.jeanboy.app.designpatterns.chain.Manager;
-import com.jeanboy.app.designpatterns.chain.Order;
+import com.jeanboy.app.designpatterns.old.chain.CEO;
+import com.jeanboy.app.designpatterns.old.chain.Employee;
+import com.jeanboy.app.designpatterns.old.chain.Leader;
+import com.jeanboy.app.designpatterns.old.chain.Manager;
+import com.jeanboy.app.designpatterns.old.chain.Order;
 
 import org.junit.Test;
 

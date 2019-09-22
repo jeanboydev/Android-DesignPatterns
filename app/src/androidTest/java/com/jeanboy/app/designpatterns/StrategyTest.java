@@ -1,9 +1,9 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.strategy.number.OperationAdd;
-import com.jeanboy.app.designpatterns.strategy.number.OperationMultiply;
-import com.jeanboy.app.designpatterns.strategy.number.OperationSubstract;
-import com.jeanboy.app.designpatterns.strategy.number.Target;
+import com.jeanboy.app.designpatterns.old.strategy.number.OperationAdd;
+import com.jeanboy.app.designpatterns.old.strategy.number.OperationMultiply;
+import com.jeanboy.app.designpatterns.old.strategy.number.OperationSubstract;
+import com.jeanboy.app.designpatterns.old.strategy.number.Target;
 
 import org.junit.Test;
 

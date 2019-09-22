@@ -1,9 +1,9 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.adapter.sd.Computer;
-import com.jeanboy.app.designpatterns.adapter.sd.SDCard;
-import com.jeanboy.app.designpatterns.adapter.sd.SDCardAdapter;
-import com.jeanboy.app.designpatterns.adapter.sd.USBInterface;
+import com.jeanboy.app.designpatterns.old.adapter.sd.Computer;
+import com.jeanboy.app.designpatterns.old.adapter.sd.SDCard;
+import com.jeanboy.app.designpatterns.old.adapter.sd.SDCardAdapter;
+import com.jeanboy.app.designpatterns.old.adapter.sd.USBInterface;
 
 import org.junit.Test;
 

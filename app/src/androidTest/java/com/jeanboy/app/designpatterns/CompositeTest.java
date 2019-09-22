@@ -1,6 +1,6 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.composite.TreeNode;
+import com.jeanboy.app.designpatterns.old.composite.TreeNode;
 
 import org.junit.Test;
 

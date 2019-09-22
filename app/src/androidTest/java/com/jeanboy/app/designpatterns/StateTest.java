@@ -1,9 +1,9 @@
 package com.jeanboy.app.designpatterns;
 
 
-import com.jeanboy.app.designpatterns.state.StartState;
-import com.jeanboy.app.designpatterns.state.StopState;
-import com.jeanboy.app.designpatterns.state.Target;
+import com.jeanboy.app.designpatterns.old.state.StartState;
+import com.jeanboy.app.designpatterns.old.state.StopState;
+import com.jeanboy.app.designpatterns.old.state.Target;
 
 import org.junit.Test;
 

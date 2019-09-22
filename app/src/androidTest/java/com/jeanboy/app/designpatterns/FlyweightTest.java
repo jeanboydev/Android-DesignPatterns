@@ -1,7 +1,7 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.flyweight.Target;
-import com.jeanboy.app.designpatterns.flyweight.TargetFactory;
+import com.jeanboy.app.designpatterns.old.flyweight.Target;
+import com.jeanboy.app.designpatterns.old.flyweight.TargetFactory;
 
 import org.junit.Test;
 

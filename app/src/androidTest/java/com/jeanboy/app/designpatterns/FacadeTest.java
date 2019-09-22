@@ -1,6 +1,6 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.facade.computer.Computer;
+import com.jeanboy.app.designpatterns.old.facade.computer.Computer;
 
 import org.junit.Test;
 

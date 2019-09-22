@@ -1,12 +1,12 @@
 package com.jeanboy.app.designpatterns;
 
 
-import com.jeanboy.app.designpatterns.bridge.BigHotStrip;
-import com.jeanboy.app.designpatterns.bridge.HotStrip;
-import com.jeanboy.app.designpatterns.bridge.KissHotStrip;
-import com.jeanboy.app.designpatterns.decorator.Bridge;
-import com.jeanboy.app.designpatterns.decorator.Decorator;
-import com.jeanboy.app.designpatterns.decorator.PackageBridge;
+import com.jeanboy.app.designpatterns.old.bridge.BigHotStrip;
+import com.jeanboy.app.designpatterns.old.bridge.HotStrip;
+import com.jeanboy.app.designpatterns.old.bridge.KissHotStrip;
+import com.jeanboy.app.designpatterns.old.decorator.Bridge;
+import com.jeanboy.app.designpatterns.old.decorator.Decorator;
+import com.jeanboy.app.designpatterns.old.decorator.PackageBridge;
 
 import org.junit.Test;
 

@@ -1,8 +1,8 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.mediator.Landlord;
-import com.jeanboy.app.designpatterns.mediator.Mediator;
-import com.jeanboy.app.designpatterns.mediator.Person;
+import com.jeanboy.app.designpatterns.old.mediator.Landlord;
+import com.jeanboy.app.designpatterns.old.mediator.Mediator;
+import com.jeanboy.app.designpatterns.old.mediator.Person;
 
 import org.junit.Test;
 

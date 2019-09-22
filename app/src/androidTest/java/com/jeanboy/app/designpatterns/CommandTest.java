@@ -1,10 +1,10 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.command.Command;
-import com.jeanboy.app.designpatterns.command.Employee;
-import com.jeanboy.app.designpatterns.command.Leader;
-import com.jeanboy.app.designpatterns.command.Receiver;
-import com.jeanboy.app.designpatterns.command.WorkCommand;
+import com.jeanboy.app.designpatterns.old.command.Command;
+import com.jeanboy.app.designpatterns.old.command.Employee;
+import com.jeanboy.app.designpatterns.old.command.Leader;
+import com.jeanboy.app.designpatterns.old.command.Receiver;
+import com.jeanboy.app.designpatterns.old.command.WorkCommand;
 
 import org.junit.Test;
 

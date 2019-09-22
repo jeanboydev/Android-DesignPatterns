@@ -1,9 +1,9 @@
 package com.jeanboy.app.designpatterns;
 
-import com.jeanboy.app.designpatterns.factory.HotStrip;
-import com.jeanboy.app.designpatterns.factory.HotStripFactory;
-import com.jeanboy.app.designpatterns.factory.abs.BigFactory;
-import com.jeanboy.app.designpatterns.factory.abs.Provider;
+import com.jeanboy.app.designpatterns.old.factory.HotStrip;
+import com.jeanboy.app.designpatterns.old.factory.HotStripFactory;
+import com.jeanboy.app.designpatterns.old.factory.abs.BigFactory;
+import com.jeanboy.app.designpatterns.old.factory.abs.Provider;
 
 import org.junit.Test;
 
